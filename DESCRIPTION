@@ -1,0 +1,21 @@
+Package: doubleCoxr
+Type: Package
+Title: Parametric Gamma-Frailty Models with Non-Proportional Hazard Functions
+Version: 0.1.0
+Author: Alexander Begun & Felix Begun
+Maintainer: Alexander Begun <alexander.begun@gmx.de>
+Description: Fits Parametric Gamma-Frailty Models with
+    Non-Proportional Hazard Functions. Possible baseline hazards: Weibull,
+    Gompertz. The proportional hazard assumption is violated by using the
+    second Cox-regression term relating to the shape parameter.
+License: GPL-2
+Imports: 
+    MASS,
+    survival,
+    numDeriv,
+    ucminf,
+    stats,
+    xtable
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
