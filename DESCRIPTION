@@ -9,6 +9,8 @@ Description: Fits Parametric Gamma-Frailty Models with
     Gompertz. The proportional hazard assumption is violated by using the
     second Cox-regression term relating to the shape parameter.
 License: GPL-2
+URL: https://github.com/AB5103/doubleCox
+BugReports: https://github.com/AB5103/doubleCox/issues
 Imports: 
     MASS,
     survival,
