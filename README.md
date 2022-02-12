@@ -1,4 +1,5 @@
-# doubleCoxr, Parametric Gamma-Frailty Models with Non-Proportional Hazard Functions in ```R``` 
+# doubleCoxr, Parametric Gamma-Frailty Models with 
+# Non-Proportional Hazard Functions in ```R``` 
 Alexander Begun and Felix Begun
 ## Description
 Fits Parametric Gamma-Frailty Models with Non-Proportional Hazard Functions by maximum marginal likelihood.
